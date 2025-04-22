@@ -1,4 +1,4 @@
-##HashMap Notes:
+#HashMap Notes:
 
 Hashmap allows to search in O(1), LinkedList and arrays O(n)
 
