@@ -15,7 +15,9 @@ Initialisation of hashmap/dict
 Adding values to hashmap
   Adding country as a key and list of cities as value
   cities = ["Mumbai", "Pune", "Nagpur"]
-  City_map["Maharashtra"] = []  # Initialising key because at start it doesn't exist
+  
+  City_map["Maharashtra"] = [ ]     # Initialising key because at start it doesn't exist
+  
   City_map["Maharashtra"] += cities
   
   Result: {"Maharashtra" : ["Mumbai", "Pune", "Nagpur"]}
