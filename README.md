@@ -1,3 +1,5 @@
+##HashMap Notes:
+
 Hashmap allows to search in O(1), LinkedList and arrays O(n)
 
 Collision occurs when hash function tries to assign data to same index,
