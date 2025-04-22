@@ -1,6 +1,6 @@
-# Hashmap allows to search in O(1), LinkedList and arrays O(n)
+Hashmap allows to search in O(1), LinkedList and arrays O(n)
 
-# Collision occurs when hash function tries to assign data to same index,
+Collision occurs when hash function tries to assign data to same index,
 e.g Franch (key) = index[0] (data)
     USA (key) = index[0] (data) ... Collision
 
