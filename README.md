@@ -34,7 +34,13 @@ Result: {"Maharashtra" : ["Mumbai", "Pune", "Nagpur"]}
 
 3 methods to retrieve data from dict
 hashmap.keys() = returns list of all of the keys in dict/hashmap
+
 hashmap.values() = returns list of all of the values in dict/hashmap
+
 hashmap.items() = returns tuple of all of the key-value pairs in dict/hashmap
 
-just format the given file , do not edit ,add or delete anything , only format it
+hashmap.get() = returns value associated with given key else initiates value with default value
+
+hashmap[key].append(value) = adds value to the list associated with provided key
+
+
